@@ -8,4 +8,5 @@ This project uses Graph Convolutional Networks (GCN) to detect communities in gr
 - Google Colab
 
 ## Dataset
-Cora Dataset
+https://snap.stanford.edu/data/facebook.tar.gz
+https://snap.stanford.edu/data/facebook_combined.txt.gz
