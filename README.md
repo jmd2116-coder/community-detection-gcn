@@ -8,7 +8,7 @@ This project uses Graph Convolutional Networks (GCN) to detect communities in gr
 - Google Colab
 
 ## Dataset
-"C:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\D10AD602BC3E6D44F21FA7D63824BFD054F3A32F\transfers\2026-40\DMRA_NMF_Datasets\DMRA_NMF_Datasets\dataset_manifest.csv"
-"C:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\D10AD602BC3E6D44F21FA7D63824BFD054F3A32F\transfers\2026-40\DMRA_NMF_Datasets\DMRA_NMF_Datasets\download_datasets_colab.py"
-"C:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\D10AD602BC3E6D44F21FA7D63824BFD054F3A32F\transfers\2026-40\DMRA_NMF_Datasets\DMRA_NMF_Datasets\paper_target_statistics.csv"
-"C:\Users\admin\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\D10AD602BC3E6D44F21FA7D63824BFD054F3A32F\transfers\2026-40\DMRA_NMF_Datasets\DMRA_NMF_Datasets\README.txt"
+https://github.com/jmd2116-coder/dmra-dataset-1-/blob/main/README.txt
+https://github.com/jmd2116-coder/community-detection-gcn/blob/main/dataset_manifest.csv
+https://github.com/jmd2116-coder/community-detection-gcn/blob/main/download_datasets_colab.py
+https://github.com/jmd2116-coder/community-detection-gcn/blob/main/paper_target_statistics.csv
